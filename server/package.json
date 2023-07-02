@@ -7,7 +7,7 @@
   "scripts": {
     "start": "nodemon index"
   },
-  "author": "",
+  "author": "lawrencejews",
   "license": "ISC",
   "dependencies": {
     "cloudinary": "^1.33.0",
