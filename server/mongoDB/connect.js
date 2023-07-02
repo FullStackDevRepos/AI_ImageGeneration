@@ -7,7 +7,7 @@ const connectDB = (url) => {
     useUnifiedTopology: true,
     useNewUrlParser: true,
 })
-    .then(() => console.log("MongoDB connected"))
+    .then(() => console.log("MongoDB has connected. Happy Coding!"))
     .catch((err) => console.log(err));
 }
 

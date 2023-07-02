@@ -14,4 +14,4 @@ This application is an AI image generation for DALL-E where prompts are used to 
 - Cloudinary for image storage: Provide a PhotoUrl as post
 - MongoDB for the database.
 - Render to host our Backend server.
-- Hosti
+- Hostinger to host the client.
