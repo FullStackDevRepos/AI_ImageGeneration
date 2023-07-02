@@ -1,4 +1,5 @@
 # MERN AI Image Generation ` DALL-E 2.0`.
+![AI Image Generation](openai.png)
 This application is an AI image generation for DALL-E where prompts are used to generate images from text using OpenAI
 ## Client
 - The client creates images uses different prompts and an image is generated.
